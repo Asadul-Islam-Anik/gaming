@@ -68,6 +68,9 @@ border: 2px solid steelblueS;
 .tok{
     border:2px solid steelblue;
     width: 262px;
+    justify-content: center;
+    position: relative;
+bottom:20px;
 height: 56px;
 flex-shrink: 0;
 display: flex;
